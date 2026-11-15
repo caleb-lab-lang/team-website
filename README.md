@@ -5,8 +5,8 @@ Team AnC: Lab 2 Website
 ## Team
 | Name | Registration no. | GitHub username |
 |------|------------------|-----------------|
-| Caleb | COM/3433/26 | caleb-lab-lang |
-| Agnes | COM/8148/26 | carol6740 |
+| Caleb Wagura | COM/3433/26 | caleb-lab-lang |
+| Agnes Mwende | COM/8148/26 | carol6740 |
 
 ## Who drove each part
 - Part 0, 2, 4: Caleb Wagura
